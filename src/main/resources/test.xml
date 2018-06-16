@@ -1,0 +1,18 @@
+<Table>
+    <AirportCode>LKE</AirportCode>
+    <CityOrAirportName>SEATTLE/TACOMA LAKE UNION</CityOrAirportName>
+    <Country>United States</Country>
+    <CountryAbbrviation>US</CountryAbbrviation>
+    <CountryCode>93</CountryCode>
+    <GMTOffset>8</GMTOffset>
+    <RunwayLengthFeet>0</RunwayLengthFeet>
+    <RunwayElevationFeet>14</RunwayElevationFeet>
+    <LatitudeDegree>47</LatitudeDegree>
+    <LatitudeMinute>30</LatitudeMinute>
+    <LatitudeSecond>0</LatitudeSecond>
+    <LatitudeNpeerS>N</LatitudeNpeerS>
+    <LongitudeDegree>122</LongitudeDegree>
+    <LongitudeMinute>20</LongitudeMinute>
+    <LongitudeSeconds>0</LongitudeSeconds>
+    <LongitudeEperW>W</LongitudeEperW>
+</Table>
